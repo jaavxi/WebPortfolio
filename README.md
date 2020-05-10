@@ -1,12 +1,10 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-**Forked from vinaysomawat.github.io**
 
 
-###### https://sahilcodes.github.io/
 
-<!-- ![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/vinaysomawatgithubio.gif) -->
+###### 
 ### About me
 * Web Designing Page
 
@@ -22,4 +20,4 @@ Web Portfolio to showcase projects and skills in better manner.
 * Location
 
 ### Footer
-------------------------------------------------------------------# WebPortfolio
+* WebPortfolio
